@@ -1,13 +1,3 @@
-'''Project: Twenty One Game:
-Course: CS 1410-X03
-Name: Emerson Smith
-Due Date: Feb 22, 2023
-
-Description:
-For this project you will implement a game of
-Twenty-One with a dealer and one player using classes and
-objects to create the game.
-'''
 import os
 import random
 
